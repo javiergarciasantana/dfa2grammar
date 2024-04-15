@@ -1,0 +1,4 @@
+Alfabeto= {0,1}
+V= {S,A,B,C}
+Simbolo de arranque= S
+S -> 0B|1AA -> 0A|1A|&B -> 0A|1CC -> 0B|1C
